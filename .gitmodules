@@ -1,0 +1,20 @@
+[submodule "sam2"]
+	path = sam2
+	url = https://github.com/GuanhuaJi/sam2.git
+	branch = main
+[submodule "e2fgvi"]
+	path = e2fgvi
+	url = https://github.com/GuanhuaJi/e2fgvi.git
+	branch = main
+[submodule "rovi-aug-extension"]
+	path = AugE-Toolkit
+	url = https://github.com/BerkeleyAutomation/rovi-aug-extension.git
+	branch = main
+[submodule "AugE-Toolkit"]
+	url = https://github.com/BerkeleyAutomation/AugE-Toolkit.git
+[submodule "lerobot_dataset_builder"]
+	path = lerobot_dataset_builder
+	url = https://github.com/GuanhuaJi/lerobot_dataset_builder.git
+[submodule "rlds_dataset_builder"]
+	path = rlds_dataset_builder
+	url = https://github.com/GuanhuaJi/rlds_dataset_builder.git
