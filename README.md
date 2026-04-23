@@ -403,12 +403,14 @@ They are provided **only for optional reproduction/extension** of results built 
 If you found this paper / code useful, please consider citing: 
 
 ```
-@misc{
-  ji2025oxeauge,
-  title  = {OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning},
-  author = {Ji, Guanhua and Polavaram, Harsha and Chen, Lawrence Yunliang and Bajamahal, Sandeep and Ma, Zehan and Adebola, Simeon and Xu, Chenfeng and Goldberg, Ken},
-  journal={arXiv preprint arXiv:2512.13100},
-  year={2025}
+@misc{ji2025oxeaugelargescalerobotaugmentation,
+      title={OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning}, 
+      author={Guanhua Ji and Harsha Polavaram and Lawrence Yunliang Chen and Sandeep Bajamahal and Zehan Ma and Simeon Adebola and Chenfeng Xu and Ken Goldberg},
+      year={2025},
+      eprint={2512.13100},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2512.13100}, 
 }
 ```
 
